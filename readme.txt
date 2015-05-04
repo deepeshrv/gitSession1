@@ -1,2 +1,1 @@
-New line inserted
-This is a sample line
+This is an all new  sample line
