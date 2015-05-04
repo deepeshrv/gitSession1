@@ -1,1 +1,2 @@
+This is a line added by user 1
 This is an all new  sample line
